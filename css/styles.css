@@ -50,11 +50,11 @@ table, th, td {
  font-size: 25px;
  padding: 10px;
 }
-footer a, .footer-above a, .footer-below a {
+.footer-above ! {
   color: #18bc9c !important;
-  font-size: 24px;
+  font-size: 28px;
 }
-footer a:hover, .footer-above a:hover, .footer-below a:hover {
+.footer-above !:hover {
   color:#2c3e50 !important;
 }
 
