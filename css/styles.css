@@ -50,6 +50,13 @@ table, th, td {
  font-size: 25px;
  padding: 10px;
 }
+.footer a {
+  color:#18bc9c;
+  font-size: 24px;
+}
+.footer a:hover {
+  color:#2c3e50;
+}
 
 <link href="css/styles.css" rel="stylesheet" />
 <!--css styles added for CIS373-->
